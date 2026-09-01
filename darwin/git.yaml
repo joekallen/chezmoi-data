@@ -1,0 +1,4 @@
+git:
+  hosts:
+    - github.com
+    - subsplash.io

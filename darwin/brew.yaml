@@ -3,10 +3,12 @@ darwin:
     trust:
       - --cask anomalyco/tap/opencode
       - --cask nikitabobko/tap/aerospace
+      - --tap avelino/mcp
       - --tap subsplash/tap
       - --tap hashicorp/tap
     brews:
       - anomalyco/tap/opencode
+      - avelino/mcp/mcp
       - argocd
       - carapace
       - chezmoi

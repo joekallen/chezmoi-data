@@ -1,0 +1,6 @@
+darwin:
+  nu:
+    env:
+      VAULT_ADDR: https://vault.infra.subsplash.io
+      HELM_EXPERIMENTAL_OCI: 1
+      HELM_S3_MODE: '3'
