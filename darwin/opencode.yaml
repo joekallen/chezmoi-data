@@ -25,6 +25,7 @@ darwin:
       default: amazon-bedrock/us.anthropic.claude-sonnet-4-6
       default-small: amazon-bedrock/us.anthropic.claude-haiku-4-5-20251001-v1:0
     plugins:
+      - context-mode
       - superpowers@git+https://github.com/obra/superpowers.git
     provider:
       amazon-bedrock:
