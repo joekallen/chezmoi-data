@@ -1,8 +1,8 @@
 darwin:
   brew:
     trust:
-      - --cask anomalyco/tap/opencode-v2
       - --cask nikitabobko/tap/aerospace
+      - --tap anomalyco/tap/opencode-v2
       - --tap avelino/mcp
       - --tap subsplash/tap
       - --tap hashicorp/tap
