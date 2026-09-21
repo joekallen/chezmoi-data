@@ -5,7 +5,6 @@ darwin:
     tools:
       aws-cli: '2'
       aws-sso: '2.2'
-      cargo:https://github.com/nushell/nufmt: rev:24b0e39
       glab: '1.93'
       go: '1.21'
       helm: '3'
